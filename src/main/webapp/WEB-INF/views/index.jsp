@@ -20,8 +20,5 @@
      <a href ="/req4">req4로 이동</a>
      <br>
      <a href ="/req5">req5로 이동</a>
-
-
-
 </body>
 </html>
