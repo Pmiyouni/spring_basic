@@ -31,4 +31,4 @@ public class HomeController {
         return "hello";
     }
 }
-//    @RequestMapping(method = RequestMethod.GET, value = "/req1")
+
