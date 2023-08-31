@@ -17,7 +17,7 @@ public class StudyService {
         System.out.println("q1 = " + q1 + "q2 =" + q2);
     }
     public void req3(StudyDTO studyDTO){
-        System.out.println("serviceDTO = " + studyDTO); System.out.println("StudyService.req3");
+        System.out.println("StudyService.req3");
         System.out.println("studyDTO = " + studyDTO);
     }
     public  StudyDTO req4(){
