@@ -11,10 +11,5 @@
        ${study.p2}
        ${study.p3} <br>
     </c:forEach>
-
-
-
-
-
 </body>
 </html>
