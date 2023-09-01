@@ -15,7 +15,7 @@ import java.util.List;
 @Controller
 public class DemoController {
 
-    //DemoService 클래스 의존성 주입
+    //DemoService 클래스 객체 의존성 주입
     @Autowired
     private DemoService demoService;
 
